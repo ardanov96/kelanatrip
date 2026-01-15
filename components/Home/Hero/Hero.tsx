@@ -14,7 +14,7 @@ const Hero = () => {
             muted 
             loop 
             preload="metadata" 
-            className='w-full h-full objective-cover'
+            className='w-full h-full object-cover'
         />
         {/* Text content */}
         <div className="absolute z-[100] w-full h-full top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]">
