@@ -142,7 +142,7 @@ export const reviewData = [
     name: "John Hudson",
     occupation: "photographer",
     review:
-      "The service exceeded my expectations. The team was professional, and I couldn't be happier with the results. Highly recommended to everyone!",
+      "I thought I knew Bali, but the 'off-the-beaten-path' guides on this site showed me a whole different side of the island. The local waterfall recommendations were breathtaking and far from the crowds. Thank you for making my solo trip so special!",
     image: "/images/u1.jpg",
   },
   {
@@ -150,7 +150,7 @@ export const reviewData = [
     name: "George Smith",
     occupation: "artist",
     review:
-      "I am thoroughly impressed with the attention to detail and quality. They truly understand customer needs and deliver outstanding results. Wonderful experience!",
+      "Indonesia is truly a hidden gem with endless wonders! From the cultural richness of Yogyakarta to the stunning beaches of Lombok, this site helped us plan the perfect itinerary. Every recommendation was spot on. A must-use for anyone visiting the archipelago!",
     image: "/images/u2.jpg",
   },
   {
@@ -158,7 +158,7 @@ export const reviewData = [
     name: "Michael Brown",
     occupation: "lecturer",
     review:
-      "Exceptional quality and fantastic customer service! The project was delivered on time and exactly as I wanted. I will definitely use their services again.",
+      "Bucket list: Checked! The guide for Komodo National Park was incredibly detailed. We saw the dragons and snorkeled in the clearest water I’ve ever seen. The booking process through the site was seamless and very professional.",
     image: "/images/u3.jpg",
   },
   {
@@ -166,7 +166,7 @@ export const reviewData = [
     name: "Daniel Chen",
     occupation: "archeologist",
     review:
-      "Outstanding results! The team was efficient, and their professionalism was remarkable. Everything was done perfectly. I highly recommend their expertise to everyone.",
+      "If you want to experience the soul of Indonesia, follow this site's advice. Our trip to Borobudur and the villages in North Sumatra was eye-opening. The tips on local etiquette and 'must-try' street foods were incredibly helpful!",
     image: "/images/u4.png",
   },
   {
@@ -174,7 +174,7 @@ export const reviewData = [
     name: "Chris Wilson",
     occupation: "architect",
     review:
-      "Amazing service! They exceeded all expectations and delivered a product that I am extremely happy with. The communication throughout the project was excellent.",
+      "The best travel resource for Indonesia! The interface is user-friendly, and the customer support team responded to my queries about visa requirements within an hour. They really take the stress out of travel planning.",
     image: "/images/u5.png",
   },
   {
@@ -182,7 +182,7 @@ export const reviewData = [
     name: "Sarah Johnson",
     occupation: "head manager",
     review:
-      "Fantastic experience! They listened carefully to my requirements and delivered exactly what I needed. Their attention to detail is truly commendable.",
+      "We planned our honeymoon using this site and it was a dream come true. The curated list of luxury villas in Ubud and private boat tours in Flores exceeded all our expectations. Everything was organized to perfection",
     image: "/images/u6.png",
   },
   {
@@ -190,7 +190,7 @@ export const reviewData = [
     name: "David Lee",
     occupation: "athlete",
     review:
-      "Absolutely incredible service! The team was supportive and responsive, making sure everything was perfect. I will definitely recommend them to my friends.",
+      "Five stars! Reliable, authentic, and truly passionate about Indonesian tourism. Don't book your trip anywhere else!",
     image: "/images/u7.png",
   },
   {
@@ -198,7 +198,7 @@ export const reviewData = [
     name: "Sophia White",
     occupation: "fashion designer",
     review:
-      "Five-star service from start to finish! The dedication and skill of the team made all the difference. Truly an exceptional experience I won’t forget.",
+      "Watching the sunrise over Mount Bromo was a life-changing experience. The trekking guides provided here were accurate and helped us prepare for the cold weather. I can’t wait to come back and explore more of Kalimantan next time!",
     image: "/images/u8.png",
   },
 ];

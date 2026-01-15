@@ -25,7 +25,7 @@ const ReviewSlider = () => {
                         key={data.id}
                         className="bg-white rounded-3xl block"  
                     >
-                        <div className="w-[80%] mx-auto mt-16">
+                        <div className="w-[90%] mx-auto mt-12">
                             {/* Review Text */}
                             <p className="text-xs sm:text-sm md:text-base font-semibold">
                                 {data.review}
