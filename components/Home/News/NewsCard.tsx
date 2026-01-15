@@ -21,7 +21,7 @@ const NewsCard = ({date, image, title}: Props) => {
             />
         </div>
         {/* Text Content */}
-        <h1 className='mt-6 text-lg text-gray-950 font-semibold hover:text-blue-950 transition-all duration-200 cursor-pointer'>
+        <h1 className='mt-6 text-lg text-gray-950 font-semibold hover:text-teal-950 transition-all duration-200 cursor-pointer'>
             {title}
         </h1>
         <p className='text-sm text-gray-600 mt-3'>{date}</p>

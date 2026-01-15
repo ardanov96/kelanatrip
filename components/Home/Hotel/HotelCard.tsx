@@ -36,7 +36,7 @@ const HotelCard = ({hotel}:Props) => {
         </div>
         {/* Content */}
         <div>
-            <h1 className='mt-4 text-lg font-semibold text-blue-950 hover:text-black cursor-pointer transition-all duration-200'>
+            <h1 className='mt-4 text-lg font-semibold text-teal-950 hover:text-black cursor-pointer transition-all duration-200'>
                 {hotel.name}
             </h1>
             <p className='text-sm text-gray-600 mt-3 font-medium mb-6'>
@@ -44,7 +44,7 @@ const HotelCard = ({hotel}:Props) => {
             </p>
             {/* ratings */}
             <div className="flex items-center space-x-2">
-                <div className="px-2 py-2 bg-blue-800 rounded-md font-bold text-white text-xs">
+                <div className="px-2 py-2 bg-teal-800 rounded-md font-bold text-white text-xs">
                     {hotel.rating}
                 </div>
                 <p className="text-sm text-gray-800">Exceptional</p>
@@ -55,7 +55,7 @@ const HotelCard = ({hotel}:Props) => {
             {/* prices */}
             <p className="mt-3 text-gray-700 font-medium">
                 Starting from{" "}
-                <span className="text-blue-600 font-bold">Rp.{hotel.price}K</span>
+                <span className="text-teal-600 font-bold">Rp.{hotel.price}K</span>
             </p>
         </div>
     </div>

@@ -10,57 +10,57 @@ const Footer = () => {
             {/* 1st part */}
             <div className="space-y-5">
                 <h1 className='text-lg font-bold'>Company</h1>
-                <p className="text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950">
+                <p className="text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950">
                     About Us
                 </p>
-                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950'>
+                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950'>
                     Careers
                 </p>
-                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950'>
+                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950'>
                     Blogs
                 </p>
-                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950'>
+                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950'>
                     Gift Cards
                 </p>
-                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950'>
+                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950'>
                     Magazine
                 </p>
             </div>
             {/* 2nd part */}
             <div className="space-y-5">
                 <h1 className='text-lg font-bold'>Support</h1>
-                <p className="text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950">
+                <p className="text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950">
                     Contact
                 </p>
-                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950'>
+                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950'>
                     Legal Notice
                 </p>
-                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950'>
+                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950'>
                     Privacy Policy
                 </p>
-                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950'>
+                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950'>
                     Terms & Conditions
                 </p>
-                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950'>
+                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950'>
                     Sitemap
                 </p>
             </div>
             {/* 3rd part */}
             <div className="space-y-5">
                 <h1 className='text-lg font-bold'>Other Services</h1>
-                <p className="text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950">
+                <p className="text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950">
                     Car hire
                 </p>
-                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950'>
+                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950'>
                     Activity Finder
                 </p>
-                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950'>
+                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950'>
                     Tour List
                 </p>
-                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950'>
+                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950'>
                     Flight Finder
                 </p>
-                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-950'>
+                <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-teal-950'>
                     Travel Agents
                 </p>
             </div>
@@ -69,13 +69,13 @@ const Footer = () => {
                 <h1 className='text-lg font-bold'>Contact Us</h1>
                 <div className="mt-6">
                     <h1 className='text-sm text-gray-600'>Our Phone Number</h1>
-                    <h1 className='text-base font-bold text-blue-950 mt-1'>
+                    <h1 className='text-base font-bold text-teal-950 mt-1'>
                         +62 (274) 246782
                     </h1>
                 </div>
                 <div className="mt-6">
                     <h1 className='text-sm text-gray-600'>Our Email</h1>
-                    <h1 className='text-base font-bold text-blue-950 mt-1'>
+                    <h1 className='text-base font-bold text-teal-950 mt-1'>
                         info@kelanatrip.com
                     </h1>
                 </div>

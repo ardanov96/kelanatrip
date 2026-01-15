@@ -9,7 +9,7 @@ const Hero = () => {
       <div className="absolute top-0 left-0 w-full h-full bg-gray-800 opacity-70"></div>
         {/* Video */}
       <video 
-            src="/images/hero1.mp4" 
+            src="/images/video.mp4" 
             autoPlay 
             muted 
             loop 
@@ -22,10 +22,10 @@ const Hero = () => {
                 <div data-aos="fade-up">
                     <h1 className='text-[25px] mb-4 md:mb-0 
                     text-center md:text-[35px] lg:text-[45px] tracking-[0.7rem] 
-                    text-white font-bold uppercase'>Travel Beyond the Mainstream   
+                    text-white font-bold uppercase'>The Archipelago Rediscovered
                     </h1>
                     <p className="md:text-base text-center text-lg text-white font-formal [word-spacing:5px]">
-                       Get the best prices on over +100  Indonesia's best destinations.
+                       Get the best prices on over +100  Indonesia&apos;s best destinations.
                     </p>
                 </div>
                 {/* Search Box*/}

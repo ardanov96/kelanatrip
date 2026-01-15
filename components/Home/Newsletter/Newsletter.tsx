@@ -17,7 +17,7 @@ const Newsletter = () => {
             mx-auto rounded-lg outline-none"
             placeholder="Email" />
         </div>
-        <button className="px-6 py-3.5 bg-blue-900 text-white  hover:bg-blue-950 transition-all duration-200 mt-3 mt-8 w-[95%] sm:w-[80%] md:w-[60%] lg:w-[40%] block
+        <button className="px-6 py-3.5 bg-teal-900 text-white  hover:bg-teal-950 transition-all duration-200 mt-3 mt-8 w-[95%] sm:w-[80%] md:w-[60%] lg:w-[40%] block
             mx-auto rounded-lg outline-none">
                 Subscribe
         </button>

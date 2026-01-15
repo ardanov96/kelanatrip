@@ -6,11 +6,12 @@ const Destination = () => {
   return (
     <div className='pt-20 pb-20'>
         {/* Section Heading */}
-        <SectionHeading heading=" Beyond Bali: Discover Indonesia’s Next Wonders." />
+        <SectionHeading heading="Beyond Bali. Boundless Beauty." caption={''} captionsmall={''} />
+        <SectionHeading caption="Explore the Unexplored: Your Journey to Indonesia’s New Icons " heading={''} captionsmall={''}/>
         {/* Section Content */}
         <div className="mt-14 w-[80%] mx-auto">
             {/* Slider */}
-            <DestinationSlider />
+            <DestinationSlider /> 
         </div>
     </div>
   )
