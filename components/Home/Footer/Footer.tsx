@@ -85,7 +85,7 @@ const Footer = () => {
         <div className="mt-8 w-[80%] mx-auto border-t pt-8 flex flex-col md:flex-row justify-between items-center
         text-gray-600 text-sm">
             <p className="text-center md:text-left">
-                Copyright ©2026 KelanaTrip. All rights reserved
+                &copy; {new Date().getFullYear()} KelanaTrip. All rights reserved
             </p>
             <div className="flex items-center space-x-4 mt-4 md:mt-0">
                 <span>Social : </span>
